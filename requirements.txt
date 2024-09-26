@@ -1,0 +1,4 @@
+amazoncaptcha==0.5.11
+pandas==2.2.3
+selenium==4.25.0
+Spire.Xls==14.7.3
